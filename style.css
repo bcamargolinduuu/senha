@@ -5,9 +5,9 @@
 :root{
     --branco: rgb(250, 241, 241);
     --cor-de-fundo: #8eda70 ;
-    --fundo-senha: #41ebeb	;
-    --fundo-texto: #eb1111;
-    --borda: #2cb64a ;
+    --fundo-senha: #161616	;
+    --fundo-texto: #242222;
+    --borda: #349934 ;
     --roboto: 'Bebas Neue', sans-serif;
     --roboto-mono: 'Bebas Neue', monospace;
 }
